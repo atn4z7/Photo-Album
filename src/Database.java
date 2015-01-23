@@ -16,10 +16,10 @@ class Database {
     public Statement stmt;
 
     public Database() {
-        //set up the connection to database
-        String url = "jdbc:mysql://Kc-isia-mysql1d.kc.umkc.edu/atn4z7";
-        String userID = "atn4z7";
-        String password = "WwGliAyf3";
+        //set up the connection to database (the url, username and password for the database are specified here)
+        String url = "jdbc:"+"url";
+        String userID = "username";
+        String password = "password";
 
         try {
             Class.forName("com.mysql.jdbc.Driver");

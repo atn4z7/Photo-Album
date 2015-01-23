@@ -1,3 +1,8 @@
+//========================================================================================
+// Author : An Nguyen
+// Description : This class is responsible for the GUI of the application
+//========================================================================================
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.File;

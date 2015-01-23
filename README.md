@@ -10,7 +10,7 @@ There are 2 modes:
 
 - Maintenance mode (View/Maintain): the user is able to update an existing image, update the data associated with an image, delete an image, and add new images.
 
-To access the data, the application uses JDBC API. As a result, the user is free to choose any relation database such as MySQL to store the photos.
+To access the data, the application uses JDBC API. As a result, the user is free to choose any relational database such as MySQL to store the photos.
 
 
 

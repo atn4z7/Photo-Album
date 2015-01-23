@@ -1,3 +1,8 @@
+//========================================================================================
+// Author : An Nguyen
+// Description : This is the model class containing the business logic of the application
+//========================================================================================
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
